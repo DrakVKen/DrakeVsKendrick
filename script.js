@@ -1,7 +1,7 @@
 // Define your dictionaries of questions and options
 
 const questions = {
-    1: "If you were a guy, would you wear a red sexy dress?",
+    1: "If you were a guy, would you wear a sexy red dress?",
     2: "If you were a 31 year old, would you hangout with a 14 year old?",
     3: "What's a prince to a king?",
     4: "Would you have a secret child and neglect them?",
