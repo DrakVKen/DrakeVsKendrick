@@ -8,6 +8,8 @@ const questions = {
     5: "Would you rather be Canadian or American?",
     6: "Domestic violence or domestic silence?",
     7: "Which chord are you striking?",
+    8: "How big is your cock?",
+    9: "Would you flee the country if something happened to you?",
 
     // Add more questions as needed
 };
@@ -20,6 +22,8 @@ const options = {
     5: ["Canadian", "American"],
     6: ["Domestic Silence", "Domestic Violence"],
     7: ["A Minor", "A Major"],
+    8: ["12 inches", "9 inches"],
+    9: ["Yes", "No"],
     // Add more options for each question
 };
 
